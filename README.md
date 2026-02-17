@@ -1,1 +1,1 @@
-# Scitis-usrer-manual
+# Scitis-user-manual
